@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a passionate engineer obsessed with clean code, efficient logic, and scalable systems. I thrive in collaborative sprints, tackling complex challenges and breathing life into innovative ideas. My expertise lies in building backend infrastructure, API design, and systems architecture.
+
+Languages/Frameworks/Tools: Java, Spring Boot, Hibernate, JavaScript, Node, Express, SQL, MongoDB, AWS.
+
+Skills: Building blocks, not buzzwords: Communication, collaboration, problem-solving, critical thinking. ️
+
+Beyond the code: Strategizing over chessboards, and constructing decks (both digital and physical). ♟️
+
 <!--
 **garshub/garshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
