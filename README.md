@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there 👋<br><br>I'm a passionate engineer obsessed with clean code, efficient logic, and scalable systems. I thrive in collaborative sprints, tackling complex challenges and breathing life into innovative ideas. My expertise lies in building backend infrastructure, API design, and systems architecture.<br><br>Languages/Frameworks/Tools: Java, Spring Boot, Hibernate, JavaScript, Node, Express, SQL, MongoDB, AWS.<br><br>Skills: Building blocks, not buzzwords: Communication, collaboration, problem-solving, critical thinking. ️<br><br>Beyond the code: Strategizing over chessboards, and constructing decks (both digital and physical). ♟️
 
+Checkout my latest work at [Blue Guardian] (https://www.blueguardian.ca/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garshub) 
@@ -12,8 +14,6 @@ Hi there 👋<br><br>I'm a passionate engineer obsessed with clean code, efficie
 
 ---
 [![](https://visitcount.itsvg.in/api?id=garshub&icon=0&color=0)](https://visitcount.itsvg.in)
-
-Proudly created with GPRM ( https://gprm.itsvg.in ) 
 
 <!--
 **garshub/garshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
